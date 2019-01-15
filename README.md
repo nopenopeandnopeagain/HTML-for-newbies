@@ -47,7 +47,7 @@
     <p class="size"> <a href="#jump6">Chapter 6: ID's! </a> </p>
     <p class="size"> <a href="#jump7">Chapter 7: Classes! </a></p>
     <br> 
-    <h2 class="size" id="jump">Chapter 1: What is HTML? </h2>
+    <h1 class="size" id="jump">Chapter 1: What is HTML? </h1>
    <p class="P2">Hypertext Markup Language is the standard markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.  </p>
    <p> <a href="https://en.wikipedia.org/wiki/HTML">From Wikipedia</a> </p>
    <h3 class="size" id="jump2">Chapter 2: Basics of HTML!</h3>
@@ -65,7 +65,7 @@ HTML links are defined with the a tag.
  
  <a href="https://www.w3schools.com/html/html_basic.asp">From W3schools</a>
  <p> </p>
- <h4 class="size" id="jump3"> Chapter 3: Who made HTML?</h4>
+ <h1 class="size" id="jump3"> Chapter 3: Who made HTML?</h1>
  <p class="P2"> Tim Berners-Lee is the inventor of the Web. (HTML too) In 1989, Tim was working in a computing services section of CERN when he came up with the concept; at the time he had no idea that it would be implemented on such an enormous scale. Particle physics research often involves collaboration among institutes from all over the world. Tim had the idea of enabling researchers from remote sites in the world to organize and pool together information. But far from simply making available a large number of research documents as files that could be downloaded to individual computers, he suggested that you could actually link the text in the files themselves. </p>
   <a href="https://www.w3.org/People/Raggett/book4/ch02.html"> From W3</a>
   <h4 class="size" id="jump4">Chapter 4: What is CSS?</h4>
@@ -73,13 +73,13 @@ HTML links are defined with the a tag.
 
 </p>
 <a href="https://www.cssbasics.com/introduction-to-css/"> From CSS basics</a>
-<h5 class="size" id="jump5"> Chapter 5: Intro to CSS!</h5>
+<h1 class="size" id="jump5"> Chapter 5: Intro to CSS!</h1>
 <p class="P2"> Why not start off with how to change our background? To start, add style BEFORE the body in your editor. Then type body { background:red; } We can also use a rgb selector. background:rgb(232, 0, 0); This also results in the color red. To change the text, just do body { color:red; }. Of course, it doesn't need to be red, other colors  work too! 
 (We wrote this.)
 
 
 </p>
- <h6 class="size" id="jump6"> Chapter 6: ID's!</h6>
+ <h1 class="size" id="jump6"> Chapter 6: ID's!</h1>
  <p class="P2"> What if you wanted to only color SOME of the text, not all of it? Well, ID's to the resuce! To use an ID put the ID in a paragraph or maybe a heading. An example: p id="ID"> Then use the style command again. Put: #(ID GOES HERE) { color:(color);
      } Boom! Only some of the text is colored! There is also something VERY similar to this. Classes! 
  </p>
