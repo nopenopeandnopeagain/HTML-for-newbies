@@ -53,7 +53,7 @@
    <h3 class="size" id="jump2">Chapter 2: Basics of HTML!</h3>
    <p class="P2"> All HTML documents must start with a document type declaration: !DOCTYPE html
 
-The HTML document itself begins with html and ends with html.
+The HTML document itself begins with html and ends with html!
 
 The visible part of the HTML document is between body and body.
 HTML headings are defined with the h1 to h6 tags. h1 defines the most important heading. h6 defines the least important heading.
