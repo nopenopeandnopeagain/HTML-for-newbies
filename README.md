@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>HTML for newbies</title>
+        
     </head>
     <style>
     body {
