@@ -50,7 +50,7 @@
     <h1 class="size" id="jump">Chapter 1: What is HTML? </h1>
    <p class="P2">Hypertext Markup Language is the standard markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.  </p>
    <p> <a href="https://en.wikipedia.org/wiki/HTML">From Wikipedia</a> </p>
-   <h3 class="size" id="jump2">Chapter 2: Basics of HTML!</h3>
+   <h1 class="size" id="jump2">Chapter 2: Basics of HTML!</h1>
    <p class="P2"> All HTML documents must start with a document type declaration: !DOCTYPE html
 
 The HTML document itself begins with html and ends with html!
