@@ -1,5 +1,5 @@
-# htmlfordummies
-<!DOCTYPE html>
+# HTML for newbies
+
 <html>
     <head>
         <meta charset="utf-8">
